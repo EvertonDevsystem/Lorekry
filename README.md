@@ -69,9 +69,9 @@
  <body>
      <div class="container">
          <!-- Imagem do Valerius -->
-         <img src="valerius.jpg" alt="Valerius, o Jester Carmesim" class="hero-img">
-         <h1>Krynox</h1>
-         <div class="subtitle">A família construída pelo bufão carmesim</div>
+         <img src="valerius.png" alt="Valerius, o Jester Carmesim" class="hero-img">
+         <h1>🎭ƙɾყɳσx🃏</h1>
+         <div class="subtitle">A família construída pelo 🃏𝔍𝔢𝔰𝔱𝔢𝔯 carmesim🎭</div>
          <!-- Brasão / símbolo do grupo -->
          <img src="krynox-crest.png" alt="Brasão do conclave Krynox" class="crest-img">
          <h2>O que é Krynox</h2>
